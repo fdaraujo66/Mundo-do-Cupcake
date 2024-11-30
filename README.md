@@ -1,8 +1,8 @@
-```markdown
 # Mundo do Cupcake
 
 ## Sobre o Projeto
 O **Mundo do Cupcake** é um site dinâmico desenvolvido no Webflow para fins acadêmicos, focado na venda de cupcakes. A abordagem no-code utilizada no projeto permitiu criar uma aplicação responsiva e funcional, sem a necessidade de codificação manual, utilizando as ferramentas visuais do Webflow.
+
 
 ## 1. Abordagem No-Code
 Este projeto foi desenvolvido integralmente no **Webflow**, uma plataforma no-code que substitui o processo tradicional de desenvolvimento front-end e back-end por ferramentas visuais e automação de código. A lógica de dados e as interações foram configuradas diretamente na plataforma, otimizando o processo e garantindo a entrega com eficiência.
@@ -81,3 +81,4 @@ Testes foram realizados para assegurar o funcionamento correto do sistema.
 
 ## Conclusão
 O projeto **Mundo do Cupcake** demonstra como a abordagem no-code pode ser eficaz na criação de sites dinâmicos e bem estruturados. A entrega do projeto evidencia a possibilidade de usar plataformas como o Webflow para desenvolver sistemas de qualidade, mesmo sem codificação manual.
+
